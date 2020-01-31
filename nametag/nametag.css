@@ -1,0 +1,35 @@
+
+
+  
+  
+
+div {
+  background-color: red;
+}
+
+
+
+.mark {
+  background-color: white;
+height:80px;
+color:black;
+font-size: 50px;
+padding-top: 30px;
+}
+
+.hello 
+{color: white;
+  background-color: red;
+  text-align:center;
+  border-radius: 25px;
+  height: 200px;
+  width: 400px;
+border-style: solid;
+border-color: black;
+font-size: 40px;
+
+}
+.intro {
+  font-size: 15px;
+
+}

@@ -1,4 +1,6 @@
 //add comments for promise assignment
+//add readme.txt file
+//promise allows us to use sycronus as asyncronus
 let fs = require('fs');
 
 function getBeers() {

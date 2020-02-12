@@ -1,3 +1,5 @@
+//add comments for promises assignment
+//add readme.txt file for the questions
 let getBeers = require('./fileIO')
 
 async function main() {
